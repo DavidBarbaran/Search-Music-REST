@@ -1,4 +1,4 @@
-package davidbarbaran.searchmusicrest
+package davidbarbaran.searchmusicrest.activity
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter
@@ -8,6 +8,7 @@ import android.os.Bundle
 import butterknife.BindView
 import butterknife.ButterKnife
 import com.airbnb.lottie.LottieAnimationView
+import davidbarbaran.searchmusicrest.R
 
 class SplashActivity : AppCompatActivity() {
 
